@@ -1,0 +1,52 @@
+"{ \"empleados\" : [ " +
+                "{" +
+                " \"nombre\" : \"Ramon\" ," +
+                " \"email\" : \"ram@gmail.com\" ," +
+                " \"edad\" : 23}," +
+
+                "{" +
+                " \"nombre\" : \"Shyam\" ," +
+                " \"email\" : \"shyam23@gmail.com\" ," +
+                " \"edad\" : 36}" +
+
+		"{" +
+                " \"nombre\" : \"Juan\" ," +
+                " \"email\" : \"john@gmail.com\" ," +
+                " \"edad\" : 33}," +	
+		
+		"{" +
+                " \"nombre\" : \"Bob\" ," +
+                " \"email\" : \"bob32@gmail.com\" ," +
+                " \"edad\" : 41}," +
+
+		"{" +
+                " \"nombre\" : \"Misael\" ," +
+                " \"email\" : \"misa12332@gmail.com\" ," +
+                " \"edad\" : 30}," +
+
+		"{" +
+                " \"nombre\" : \"Magdiel\" ," +
+                " \"email\" : \"magdiel14@gmail.com\" ," +
+                " \"edad\" : 21}," +	
+		
+		"{" +
+                " \"nombre\" : \"Antonio\" ," +
+                " \"email\" : \"antoniosantos@gmail.com\" ," +
+                " \"edad\" : 26}," +
+
+		"{" +
+                " \"nombre\" : \"Cesar\" ," +
+                " \"email\" : \"cesarsdom@gmail.com\" ," +
+                " \"edad\" : 25}," +
+
+		"{" +
+                " \"nombre\" : \"Alberto\" ," +
+                " \"email\" : \"albertoramos1@gmail.com\" ," +
+                " \"edad\" : 24}," +
+
+		"{" +
+                " \"nombre\" : \"Grissel\" ," +
+                " \"email\" : \"gris158@gmail.com\" ," +
+                " \"edad\" : 24}," +
+                " ]" +
+                " }"
